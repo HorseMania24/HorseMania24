@@ -1,9 +1,9 @@
-###Hey!, I go by HorseBob or HorseMania24
+## Hey!, I go by HorseBob or HorseMania24
 
-- 👀 I'm interested in Game/Web development, sports, current/retro gaming, and messing with Electronics!
-- 🌱 I’m currently learning HTML, CSS, Javascript, and React.
-- 💞️ I’m not looking to collaborate on anything currently, but possibly in the future.
-- 🥅 Goals: To finish my website (Flash Games, Videos, Music etc..) mostly for fun, to work on my HTML and CSS (Possibly React/Javascript)
+#### -- 👀 I'm interested in Game/Web development, sports, current/retro gaming, and messing with Electronics!
+#### -- 🌱 I’m currently learning HTML, CSS, Javascript, and React.
+#### -- 💞️ I’m not looking to collaborate on anything currently, but possibly in the future.
+#### -- 🥅 Goals: To finish my website (Flash Games, Videos, Music etc..) mostly for fun, to work on my HTML and CSS (Possibly React/Javascript)
 
 ## Contact Me:
 Email: (Pending)
