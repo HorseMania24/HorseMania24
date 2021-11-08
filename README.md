@@ -1,4 +1,4 @@
-##-Hey!, I go by HorseBob or HorseMania24
+###Hey!, I go by HorseBob or HorseMania24
 
 - 👀 I'm interested in Game/Web development, sports, current/retro gaming, and messing with Electronics!
 - 🌱 I’m currently learning HTML, CSS, Javascript, and React.
